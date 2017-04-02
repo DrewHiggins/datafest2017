@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Origin Cities Map</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+
+  <body>
+    <div id="controls">
+      <select id="origin">
+        <option value="NEW YORK" selected>New York</option>
+        <option value="HOUSTON">Houston</option>
+        <option value="LOS ANGELES">Los Angeles</option>
+        <option value="CHICAGO">Chicago</option>
+        <option value="SEATTLE">Seattle</option>
+        <option value="CANADA">Canada</option>
+        <option value="GERMANY">Germany</option>
+        <option value="ISRAEL">Israel</option>
+        <option value="UNITED ARAB EMIRATES">UAE</option>
+        <option value="SAUDI ARABIA">Saudi Arabia</option>
+        <option value="UNITED KINGDOM">United Kingdom</option>
+      </select>
+      <label id="month-label" for="month">June</label>
+      <input id="month" type="range" min="0" max="11" value="5" step="1" />
+    </div>
+    <div id="map"></div>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+body {
+  font-family: Verdana;
+}
+
+#controls {
+  height: 5%;
+}
+
+#map {
+  height: 95%;
+}
+
+#month-label {
+  display: inline-block;
+  min-width: 80px;
+  max-width: 80px;
+  text-align: right;
+}

@@ -1,0 +1,647 @@
+[
+  [
+    "CHICAGO",
+    "Brazil",
+    35
+  ],
+  [
+    "CHICAGO",
+    "Canada",
+    239
+  ],
+  [
+    "CHICAGO",
+    "China",
+    38
+  ],
+  [
+    "CHICAGO",
+    "Costa Rica",
+    32
+  ],
+  [
+    "CHICAGO",
+    "Dominican Republic",
+    51
+  ],
+  [
+    "CHICAGO",
+    "France",
+    145
+  ],
+  [
+    "CHICAGO",
+    "Germany",
+    70
+  ],
+  [
+    "CHICAGO",
+    "Greece",
+    35
+  ],
+  [
+    "CHICAGO",
+    "Hong Kong",
+    28
+  ],
+  [
+    "CHICAGO",
+    "Ireland",
+    43
+  ],
+  [
+    "CHICAGO",
+    "Italy",
+    161
+  ],
+  [
+    "CHICAGO",
+    "Jamaica",
+    26
+  ],
+  [
+    "CHICAGO",
+    "Japan",
+    51
+  ],
+  [
+    "CHICAGO",
+    "Mexico",
+    308
+  ],
+  [
+    "CHICAGO",
+    "Netherlands",
+    26
+  ],
+  [
+    "CHICAGO",
+    "Philippines",
+    30
+  ],
+  [
+    "CHICAGO",
+    "Puerto Rico",
+    49
+  ],
+  [
+    "CHICAGO",
+    "Spain",
+    66
+  ],
+  [
+    "CHICAGO",
+    "Thailand",
+    50
+  ],
+  [
+    "CHICAGO",
+    "Turkey",
+    38
+  ],
+  [
+    "CHICAGO",
+    "United Kingdom",
+    113
+  ],
+  [
+    "HOUSTON",
+    "Brazil",
+    37
+  ],
+  [
+    "HOUSTON",
+    "Canada",
+    186
+  ],
+  [
+    "HOUSTON",
+    "China",
+    39
+  ],
+  [
+    "HOUSTON",
+    "Colombia",
+    47
+  ],
+  [
+    "HOUSTON",
+    "Costa Rica",
+    51
+  ],
+  [
+    "HOUSTON",
+    "Dominican Republic",
+    31
+  ],
+  [
+    "HOUSTON",
+    "France",
+    87
+  ],
+  [
+    "HOUSTON",
+    "Germany",
+    32
+  ],
+  [
+    "HOUSTON",
+    "Greece",
+    30
+  ],
+  [
+    "HOUSTON",
+    "Italy",
+    128
+  ],
+  [
+    "HOUSTON",
+    "Japan",
+    43
+  ],
+  [
+    "HOUSTON",
+    "Mexico",
+    372
+  ],
+  [
+    "HOUSTON",
+    "Puerto Rico",
+    49
+  ],
+  [
+    "HOUSTON",
+    "Spain",
+    55
+  ],
+  [
+    "HOUSTON",
+    "Thailand",
+    37
+  ],
+  [
+    "HOUSTON",
+    "Turkey",
+    41
+  ],
+  [
+    "HOUSTON",
+    "United Kingdom",
+    99
+  ],
+  [
+    "LOS ANGELES",
+    "Australia",
+    42
+  ],
+  [
+    "LOS ANGELES",
+    "Brazil",
+    48
+  ],
+  [
+    "LOS ANGELES",
+    "Canada",
+    200
+  ],
+  [
+    "LOS ANGELES",
+    "China",
+    115
+  ],
+  [
+    "LOS ANGELES",
+    "Colombia",
+    27
+  ],
+  [
+    "LOS ANGELES",
+    "Costa Rica",
+    46
+  ],
+  [
+    "LOS ANGELES",
+    "Dominican Republic",
+    28
+  ],
+  [
+    "LOS ANGELES",
+    "France",
+    142
+  ],
+  [
+    "LOS ANGELES",
+    "Germany",
+    65
+  ],
+  [
+    "LOS ANGELES",
+    "Greece",
+    47
+  ],
+  [
+    "LOS ANGELES",
+    "Hong Kong",
+    64
+  ],
+  [
+    "LOS ANGELES",
+    "Italy",
+    170
+  ],
+  [
+    "LOS ANGELES",
+    "Japan",
+    117
+  ],
+  [
+    "LOS ANGELES",
+    "Mexico",
+    473
+  ],
+  [
+    "LOS ANGELES",
+    "Peru",
+    26
+  ],
+  [
+    "LOS ANGELES",
+    "Philippines",
+    39
+  ],
+  [
+    "LOS ANGELES",
+    "South Korea",
+    58
+  ],
+  [
+    "LOS ANGELES",
+    "Spain",
+    111
+  ],
+  [
+    "LOS ANGELES",
+    "Taiwan",
+    34
+  ],
+  [
+    "LOS ANGELES",
+    "Thailand",
+    111
+  ],
+  [
+    "LOS ANGELES",
+    "Turkey",
+    27
+  ],
+  [
+    "LOS ANGELES",
+    "United Kingdom",
+    123
+  ],
+  [
+    "LOS ANGELES",
+    "Vietnam",
+    40
+  ],
+  [
+    "NEW YORK",
+    "Argentina",
+    37
+  ],
+  [
+    "NEW YORK",
+    "Aruba",
+    36
+  ],
+  [
+    "NEW YORK",
+    "Australia",
+    38
+  ],
+  [
+    "NEW YORK",
+    "Austria",
+    53
+  ],
+  [
+    "NEW YORK",
+    "Bahamas",
+    44
+  ],
+  [
+    "NEW YORK",
+    "Barbados",
+    26
+  ],
+  [
+    "NEW YORK",
+    "Belgium",
+    34
+  ],
+  [
+    "NEW YORK",
+    "Brazil",
+    78
+  ],
+  [
+    "NEW YORK",
+    "Canada",
+    589
+  ],
+  [
+    "NEW YORK",
+    "China",
+    101
+  ],
+  [
+    "NEW YORK",
+    "Colombia",
+    84
+  ],
+  [
+    "NEW YORK",
+    "Costa Rica",
+    71
+  ],
+  [
+    "NEW YORK",
+    "Croatia",
+    26
+  ],
+  [
+    "NEW YORK",
+    "Czech Republic",
+    37
+  ],
+  [
+    "NEW YORK",
+    "Denmark",
+    42
+  ],
+  [
+    "NEW YORK",
+    "Dominican Republic",
+    211
+  ],
+  [
+    "NEW YORK",
+    "France",
+    348
+  ],
+  [
+    "NEW YORK",
+    "Germany",
+    155
+  ],
+  [
+    "NEW YORK",
+    "Greece",
+    125
+  ],
+  [
+    "NEW YORK",
+    "Hong Kong",
+    59
+  ],
+  [
+    "NEW YORK",
+    "Iceland",
+    58
+  ],
+  [
+    "NEW YORK",
+    "India",
+    69
+  ],
+  [
+    "NEW YORK",
+    "Indonesia",
+    43
+  ],
+  [
+    "NEW YORK",
+    "Ireland",
+    75
+  ],
+  [
+    "NEW YORK",
+    "Israel",
+    75
+  ],
+  [
+    "NEW YORK",
+    "Italy",
+    559
+  ],
+  [
+    "NEW YORK",
+    "Jamaica",
+    72
+  ],
+  [
+    "NEW YORK",
+    "Japan",
+    199
+  ],
+  [
+    "NEW YORK",
+    "Mexico",
+    366
+  ],
+  [
+    "NEW YORK",
+    "Morocco",
+    36
+  ],
+  [
+    "NEW YORK",
+    "Netherlands",
+    64
+  ],
+  [
+    "NEW YORK",
+    "Norway",
+    27
+  ],
+  [
+    "NEW YORK",
+    "Panama",
+    30
+  ],
+  [
+    "NEW YORK",
+    "Peru",
+    57
+  ],
+  [
+    "NEW YORK",
+    "Philippines",
+    38
+  ],
+  [
+    "NEW YORK",
+    "Portugal",
+    65
+  ],
+  [
+    "NEW YORK",
+    "Puerto Rico",
+    188
+  ],
+  [
+    "NEW YORK",
+    "South Africa",
+    39
+  ],
+  [
+    "NEW YORK",
+    "South Korea",
+    35
+  ],
+  [
+    "NEW YORK",
+    "Spain",
+    261
+  ],
+  [
+    "NEW YORK",
+    "Sweden",
+    41
+  ],
+  [
+    "NEW YORK",
+    "Switzerland",
+    69
+  ],
+  [
+    "NEW YORK",
+    "Thailand",
+    145
+  ],
+  [
+    "NEW YORK",
+    "Turkey",
+    62
+  ],
+  [
+    "NEW YORK",
+    "Turks and Caicos",
+    31
+  ],
+  [
+    "NEW YORK",
+    "United Arab Emirates",
+    43
+  ],
+  [
+    "NEW YORK",
+    "United Kingdom",
+    332
+  ],
+  [
+    "NEW YORK",
+    "Vietnam",
+    38
+  ],
+  [
+    "SEATTLE",
+    "Australia",
+    30
+  ],
+  [
+    "SEATTLE",
+    "Canada",
+    600
+  ],
+  [
+    "SEATTLE",
+    "China",
+    40
+  ],
+  [
+    "SEATTLE",
+    "Costa Rica",
+    30
+  ],
+  [
+    "SEATTLE",
+    "France",
+    95
+  ],
+  [
+    "SEATTLE",
+    "Germany",
+    73
+  ],
+  [
+    "SEATTLE",
+    "Greece",
+    44
+  ],
+  [
+    "SEATTLE",
+    "Ireland",
+    36
+  ],
+  [
+    "SEATTLE",
+    "Italy",
+    141
+  ],
+  [
+    "SEATTLE",
+    "Japan",
+    104
+  ],
+  [
+    "SEATTLE",
+    "Mexico",
+    161
+  ],
+  [
+    "SEATTLE",
+    "Netherlands",
+    37
+  ],
+  [
+    "SEATTLE",
+    "New Zealand",
+    38
+  ],
+  [
+    "SEATTLE",
+    "Peru",
+    27
+  ],
+  [
+    "SEATTLE",
+    "Philippines",
+    37
+  ],
+  [
+    "SEATTLE",
+    "South Korea",
+    30
+  ],
+  [
+    "SEATTLE",
+    "Spain",
+    81
+  ],
+  [
+    "SEATTLE",
+    "Thailand",
+    62
+  ],
+  [
+    "SEATTLE",
+    "United Kingdom",
+    112
+  ],
+  [
+    "SEATTLE",
+    "Vietnam",
+    34
+  ]
+]
